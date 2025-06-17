@@ -229,7 +229,7 @@ def main():
             port=3306,
             database="cz63101_songs",
             user="cz63101_songs",
-            password="88005553535dfcz2003_"
+            password="***"
         )
 
         if connection.is_connected():
